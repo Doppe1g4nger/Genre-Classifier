@@ -1,2 +1,2 @@
-# passport-to-Paris
+# Genre-Classifier
 Repo for MIR genre classification tool
